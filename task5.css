@@ -1,0 +1,13 @@
+
+#Unhappy{
+    background-color: blue;
+    color: aliceblue;
+    border: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+}
+#image{
+    height: 350px;
+    width: 350px;
+}
